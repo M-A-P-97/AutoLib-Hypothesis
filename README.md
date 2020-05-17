@@ -6,6 +6,7 @@ In this project I sought to understand the electric car usage by solving for ano
 As a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset. 
 The selected periods of interest be either weekdays or weekends but not a mix of both. 
 I also considered postal codes as some of the areas of interest.
+My claim is that the number of Bluecars taken from postal code 75015 is the same as in postal code 75017 during weekdays
 
 **Research Question**
 
