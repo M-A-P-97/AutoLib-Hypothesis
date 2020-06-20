@@ -1,6 +1,6 @@
 # AutoLib-Hypothesis
 #### AutoLib Dataset Analysis, 17/05/2020
-#### By **Patrick Mariwa Atak**
+#### By **M A P**
 ## Description
 In this project I sought to understand the electric car usage by solving for another research question. 
 As a Data Scientist for the Autolib electric car-sharing service company to investigate a claim about the blue cars from the provided Autolib dataset. 
@@ -38,4 +38,4 @@ Your solution will measure my metric of success which will be achieved based on 
 * Scikit-Learn
 
 ### License
-**MIT (c) 2020 Patrick Atak**
+**MIT (c) 2020 M A P**
